@@ -76,5 +76,5 @@ Simulation Running
 ![Tomasulo Simulation Running](https://github.com/ramezhany1919/Tomasulo-Architecture-Simulator/blob/main/Tomasulo-Sim/Screenshots/screenshot5.png "Simulation Running")
 
 
-## Acknowledgments 🙏
+## Acknowledgments
 - Inspired by the work on Tomasulo's algorithm for instruction-level parallelism.
